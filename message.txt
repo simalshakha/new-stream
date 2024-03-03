@@ -1,0 +1,14 @@
+{12}   
+
+ System Development and Training
+The research paper presents the development of a real-time sign language recognition system for American sign language, aiming to facilitate communication between hearing-impaired individuals and those who do not know sign language. A convolutional neural network was trained using a dataset from Massey University, Institute of Information and Mathematical Sciences, resulting in 100% test accuracy. The real-time system utilizes skin color detection for hand positioning and the convex hull algorithm for hand gesture determination. The accuracy of the real-time system was reported to be 98.05%. [ 12 ] 
+
+TABLE I
+
+table
+ VIEW TABLE 
+ Importance of Sign Language Communication and Previous Research
+The paper discusses the growing importance of sign language communication, particularly with 400 million hearing-impaired individuals worldwide. It provides an overview of previous research efforts in sign language recognition, underscoring the need for more accessible communication tools. The proposed system employs a CNN for feature extraction and classification, with a focus on minimizing image processing and morphological steps. The CNN model training involved 900 images, with 80% used for training and 20% for testing. The system achieved a maximum test performance of 98.05% in the real-time environment. [ 12 ] 
+
+ Methodology and Test Results
+The methodology of the system is detailed, including the process of skin region detection, hand gesture classification, and the simultaneous running of hand sign recognition algorithms for accuracy. The study compares the proposed system with previous research, showcasing a high test accuracy and real-time applicability. The real-time system's test results are presented, demonstrating the system's ability to achieve high accuracy, even with letters that have similar gestures. In conclusion, the research paper highlights the successful development of a real-time sign language recognition system, achieving high accuracy and demonstrating potential for broader accessibility in communication for the hearing-impaired community. [ 1 ]
